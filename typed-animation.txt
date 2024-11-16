@@ -1,0 +1,10 @@
+<h4><span class="auto-type"></span></h4>
+<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+        <script>
+         var typed = new Typed(".auto-type",{
+             strings :["Designer", "Developer" ,"Freelancer","Photographer"],
+             typeSpeed : 100,
+             backSpeed:150,
+             loop: true
+         })
+        </script>
